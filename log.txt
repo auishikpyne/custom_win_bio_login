@@ -1,0 +1,139 @@
+[2024-7-31 10:19:36] DLL_PROCESS_ATTACH
+[2024-7-31 10:19:36] DLL_PROCESS_DETACH
+[2024-7-31 10:31:55] DLL_PROCESS_ATTACH
+[2024-7-31 10:31:55] RegisterServer called
+[2024-7-31 10:31:55] GetModuleFileName called
+[2024-7-31 10:31:55] StringFromGUID2 called
+[2024-7-31 10:31:55] CLSID key created
+[2024-7-31 10:31:55] InprocServer32 key created
+[2024-7-31 10:31:55] ThreadingModel set to Apartment
+[2024-7-31 10:31:55] Credential Providers key created and DLL path saved
+[2024-7-31 10:31:55] RegisterServer completed with result 0
+[2024-7-31 10:31:57] DLL_PROCESS_DETACH
+[2024-7-31 10:33:16] DLL_PROCESS_ATTACH
+[2024-7-31 10:33:16] DLL_PROCESS_DETACH
+[2024-7-31 10:34:52] DLL_PROCESS_ATTACH
+[2024-7-31 10:34:52] DLL_PROCESS_DETACH
+[2024-7-31 10:41:28] DLL_PROCESS_ATTACH
+[2024-7-31 10:41:28] RegisterServer called
+[2024-7-31 10:41:28] GetModuleFileName called
+[2024-7-31 10:41:28] StringFromGUID2 called
+[2024-7-31 10:41:28] CLSID key created
+[2024-7-31 10:41:28] InprocServer32 key created
+[2024-7-31 10:41:28] ThreadingModel set to Apartment
+[2024-7-31 10:41:28] Credential Providers key created and DLL path saved
+[2024-7-31 10:41:28] RegisterServer completed with result 0
+[2024-7-31 10:41:30] DLL_PROCESS_DETACH
+[2024-7-31 10:41:51] DLL_PROCESS_ATTACH
+[2024-7-31 10:41:51] RegisterServer called
+[2024-7-31 10:41:51] GetModuleFileName called
+[2024-7-31 10:41:51] StringFromGUID2 called
+[2024-7-31 10:41:51] CLSID key created
+[2024-7-31 10:41:51] InprocServer32 key created
+[2024-7-31 10:41:51] ThreadingModel set to Apartment
+[2024-7-31 10:41:51] Credential Providers key created and DLL path saved
+[2024-7-31 10:41:51] RegisterServer completed with result 0
+[2024-7-31 10:41:54] DLL_PROCESS_DETACH
+[2024-7-31 10:43:15] DLL_PROCESS_ATTACH
+[2024-7-31 10:43:15] DLL_PROCESS_DETACH
+[2024-7-31 10:51:39] DLL_PROCESS_ATTACH
+[2024-7-31 10:51:39] RegisterServer called
+[2024-7-31 10:51:39] GetModuleFileName called
+[2024-7-31 10:51:39] StringFromGUID2 called
+[2024-7-31 10:51:39] CLSID key created
+[2024-7-31 10:51:39] InprocServer32 key created
+[2024-7-31 10:51:39] ThreadingModel set to Apartment
+[2024-7-31 10:51:39] Credential Providers key created and DLL path saved
+[2024-7-31 10:51:39] RegisterServer completed with result 0
+[2024-7-31 10:51:41] DLL_PROCESS_DETACH
+[2024-7-31 10:52:54] DLL_PROCESS_ATTACH
+[2024-7-31 10:52:54] DLL_PROCESS_DETACH
+[2024-7-31 11:3:0] DLL_PROCESS_ATTACH
+[2024-7-31 11:3:0] DLL_PROCESS_DETACH
+[2024-7-31 15:23:9] DLL_PROCESS_ATTACH
+[2024-7-31 15:23:9] RegisterServer called
+[2024-7-31 15:23:9] GetModuleFileName called
+[2024-7-31 15:23:9] StringFromGUID2 called
+[2024-7-31 15:23:9] CLSID key created
+[2024-7-31 15:23:9] InprocServer32 key created
+[2024-7-31 15:23:9] ThreadingModel set to Apartment
+[2024-7-31 15:23:9] Credential Providers key created and DLL path saved
+[2024-7-31 15:23:9] RegisterServer completed with result 0
+[2024-7-31 15:23:11] DLL_PROCESS_DETACH
+[2024-7-31 15:38:2] DLL_PROCESS_ATTACH
+[2024-7-31 15:38:2] RegisterServer called
+[2024-7-31 15:38:2] GetModuleFileName called
+[2024-7-31 15:38:2] StringFromGUID2 called
+[2024-7-31 15:38:2] CLSID key created
+[2024-7-31 15:38:2] InprocServer32 key created
+[2024-7-31 15:38:2] ThreadingModel set to Apartment
+[2024-7-31 15:38:2] Credential Providers key created and DLL path saved
+[2024-7-31 15:38:2] RegisterServer completed with result 0
+[2024-7-31 15:38:9] DLL_PROCESS_DETACH
+[2024-7-31 15:49:28] DLL_PROCESS_ATTACH
+[2024-7-31 15:49:28] RegisterServer called
+[2024-7-31 15:49:28] GetModuleFileName called
+[2024-7-31 15:49:28] StringFromGUID2 called
+[2024-7-31 15:49:28] CLSID key created
+[2024-7-31 15:49:28] InprocServer32 key created
+[2024-7-31 15:49:28] ThreadingModel set to Apartment
+[2024-7-31 15:49:28] Credential Providers key created and DLL path saved
+[2024-7-31 15:49:28] RegisterServer completed with result 0
+[2024-7-31 15:49:34] DLL_PROCESS_DETACH
+[2024-7-31 15:49:51] DLL_PROCESS_ATTACH
+[2024-7-31 15:49:51] RegisterServer called
+[2024-7-31 15:49:51] GetModuleFileName called
+[2024-7-31 15:49:51] StringFromGUID2 called
+[2024-7-31 15:49:51] CLSID key created
+[2024-7-31 15:49:51] InprocServer32 key created
+[2024-7-31 15:49:51] ThreadingModel set to Apartment
+[2024-7-31 15:49:51] Credential Providers key created and DLL path saved
+[2024-7-31 15:49:51] RegisterServer completed with result 0
+[2024-7-31 15:49:53] DLL_PROCESS_DETACH
+[2024-7-31 15:52:48] DLL_PROCESS_ATTACH
+[2024-7-31 15:52:48] UnregisterServer called
+[2024-7-31 15:52:48] StringFromGUID2 called
+[2024-7-31 15:52:48] CLSID key deleted
+[2024-7-31 15:52:48] Credential Providers key deleted
+[2024-7-31 15:52:48] UnregisterServer completed with result 0
+[2024-7-31 15:53:3] DLL_PROCESS_DETACH
+[2024-7-31 15:53:52] DLL_PROCESS_ATTACH
+[2024-7-31 15:53:52] RegisterServer called
+[2024-7-31 15:53:52] GetModuleFileName called
+[2024-7-31 15:53:52] StringFromGUID2 called
+[2024-7-31 15:53:52] CLSID key created
+[2024-7-31 15:53:52] InprocServer32 key created
+[2024-7-31 15:53:52] ThreadingModel set to Apartment
+[2024-7-31 15:53:52] Credential Providers key created and DLL path saved
+[2024-7-31 15:53:52] RegisterServer completed with result 0
+[2024-7-31 15:53:55] DLL_PROCESS_DETACH
+[2024-7-31 16:2:46] DLL_PROCESS_ATTACH
+[2024-7-31 16:2:46] DLL_PROCESS_DETACH
+[2024-7-31 16:7:18] DLL_PROCESS_ATTACH
+[2024-7-31 16:7:18] RegisterServer called
+[2024-7-31 16:7:18] GetModuleFileName called
+[2024-7-31 16:7:18] StringFromGUID2 called
+[2024-7-31 16:7:18] CLSID key created
+[2024-7-31 16:7:18] InprocServer32 key created
+[2024-7-31 16:7:18] ThreadingModel set to Apartment
+[2024-7-31 16:7:18] Credential Providers key created and DLL path saved
+[2024-7-31 16:7:18] RegisterServer completed with result 0
+[2024-7-31 16:7:25] DLL_PROCESS_DETACH
+[2024-7-31 16:36:57] DLL_PROCESS_ATTACH
+[2024-7-31 16:36:57] DLL_PROCESS_DETACH
+[2024-7-31 20:8:5] DLL_PROCESS_ATTACH
+[2024-7-31 20:8:5] DLL_PROCESS_DETACH
+[2024-7-31 21:0:18] DLL_PROCESS_ATTACH
+[2024-7-31 21:0:18] DLL_PROCESS_DETACH
+[2024-7-31 21:39:45] DLL_PROCESS_ATTACH
+[2024-7-31 21:39:45] DLL_PROCESS_DETACH
+[2024-7-31 21:59:59] DLL_PROCESS_ATTACH
+[2024-7-31 21:59:59] DLL_PROCESS_DETACH
+[2024-8-1 7:39:50] DLL_PROCESS_ATTACH
+[2024-8-1 7:39:50] DLL_PROCESS_DETACH
+[2024-8-1 7:53:16] DLL_PROCESS_ATTACH
+[2024-8-1 7:53:16] DLL_PROCESS_DETACH
+[2024-8-1 10:36:3] DLL_PROCESS_ATTACH
+[2024-8-1 10:36:3] DLL_PROCESS_DETACH
+[2024-8-1 12:19:43] DLL_PROCESS_ATTACH
+[2024-8-1 12:19:43] DLL_PROCESS_DETACH
